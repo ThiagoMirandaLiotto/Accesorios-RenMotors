@@ -1,0 +1,5 @@
+NECESITO:
+- Confirmar lo del envio
+- Precio
+- Peso, profundidad, ancho y alto.
+- Pagar Premium

@@ -6,4 +6,8 @@ hacer mobile y otra deskop.
 4. Avisar en la publi que falta el envio, sino se pone en la descripcion
 de todos los productos. (nose como lo va a pagar tdvia)
 
-5. Editar TAGS/SEO de Productos y Categorias
+A FUTURO:
+- Editar TAGS/SEO de Productos y Categorias
+- Extensiones por agregar e investigar:
+	CrossUp
+	TITANPush --> publicidad
